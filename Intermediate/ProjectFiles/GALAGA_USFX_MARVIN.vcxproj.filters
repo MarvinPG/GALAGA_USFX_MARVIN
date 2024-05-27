@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GALAGA_USFX_MARVIN.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{67C23AC0-DD10-4B71-83D0-E9B5ACAD9F7C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GALAGA_USFX_MARVIN.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GALAGA_USFX_MARVINEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BF063380-A3B6-42CC-A474-7600F38EE2E9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GALAGA_USFX_MARVIN">
+      <UniqueIdentifier>{1BA310DD-9A03-4660-858C-64FB6927AACA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_MARVIN\FactoryNaves.cpp">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_MARVIN\FactoryNaves.h">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVIN.Build.cs">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVIN.cpp">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVIN.h">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVINGameMode.cpp">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVINGameMode.h">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVINPawn.cpp">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVINPawn.h">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVINProjectile.cpp">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVINProjectile.h">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_MARVIN\NaveEnemiga.cpp">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_MARVIN\NaveEnemiga.h">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_MARVIN\NaveEnemigaHacker.cpp">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_MARVIN\NaveEnemigaHacker.h">
+      <Filter>Source\GALAGA_USFX_MARVIN</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

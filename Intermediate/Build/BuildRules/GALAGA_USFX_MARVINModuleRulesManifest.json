@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\programacion\\GALAGA_USFX_MARVIN\\Source\\GALAGA_USFX_MARVIN\\GALAGA_USFX_MARVIN.Build.cs",
+		"D:\\programacion\\GALAGA_USFX_MARVIN\\Source\\GALAGA_USFX_MARVIN.Target.cs",
+		"D:\\programacion\\GALAGA_USFX_MARVIN\\Source\\GALAGA_USFX_MARVINEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

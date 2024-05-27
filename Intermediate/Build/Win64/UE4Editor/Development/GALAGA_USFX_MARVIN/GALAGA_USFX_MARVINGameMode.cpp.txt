@@ -1,0 +1,21 @@
+D:\programacion\GALAGA_USFX_MARVIN\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_MARVIN\Definitions.GALAGA_USFX_MARVIN.h
+D:\programacion\GALAGA_USFX_MARVIN\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVINGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\programacion\GALAGA_USFX_MARVIN\Source\GALAGA_USFX_MARVIN\NaveEnemiga.h
+D:\programacion\GALAGA_USFX_MARVIN\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_MARVIN\NaveEnemiga.generated.h
+D:\programacion\GALAGA_USFX_MARVIN\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVINGameMode.generated.h
+D:\programacion\GALAGA_USFX_MARVIN\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVINPawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\programacion\GALAGA_USFX_MARVIN\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVINPawn.generated.h
+D:\programacion\GALAGA_USFX_MARVIN\Source\GALAGA_USFX_MARVIN\NaveEnemigaHacker.h
+D:\programacion\GALAGA_USFX_MARVIN\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_MARVIN\NaveEnemigaHacker.generated.h
+D:\programacion\GALAGA_USFX_MARVIN\Source\GALAGA_USFX_MARVIN\FactoryNaves.h
+D:\programacion\GALAGA_USFX_MARVIN\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_MARVIN\FactoryNaves.generated.h

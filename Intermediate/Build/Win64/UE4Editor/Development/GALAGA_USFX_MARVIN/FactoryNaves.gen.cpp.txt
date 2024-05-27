@@ -1,0 +1,7 @@
+D:\programacion\GALAGA_USFX_MARVIN\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_MARVIN\Definitions.GALAGA_USFX_MARVIN.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\programacion\GALAGA_USFX_MARVIN\Source\GALAGA_USFX_MARVIN/FactoryNaves.h
+D:\programacion\GALAGA_USFX_MARVIN\Source\GALAGA_USFX_MARVIN\NaveEnemiga.h
+D:\programacion\GALAGA_USFX_MARVIN\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_MARVIN\NaveEnemiga.generated.h
+D:\programacion\GALAGA_USFX_MARVIN\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_MARVIN\FactoryNaves.generated.h

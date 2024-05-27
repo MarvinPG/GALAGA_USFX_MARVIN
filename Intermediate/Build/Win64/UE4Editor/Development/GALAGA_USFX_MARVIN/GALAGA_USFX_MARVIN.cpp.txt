@@ -1,0 +1,2 @@
+D:\programacion\GALAGA_USFX_MARVIN\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_MARVIN\Definitions.GALAGA_USFX_MARVIN.h
+D:\programacion\GALAGA_USFX_MARVIN\Source\GALAGA_USFX_MARVIN\GALAGA_USFX_MARVIN.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GALAGA_USFX_MARVIN",
+			"Path": "D:\\programacion\\GALAGA_USFX_MARVIN\\Source\\GALAGA_USFX_MARVIN.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GALAGA_USFX_MARVINEditor",
+			"Path": "D:\\programacion\\GALAGA_USFX_MARVIN\\Source\\GALAGA_USFX_MARVINEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
